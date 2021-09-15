@@ -6,6 +6,10 @@ Neste tutorial vamos utilizar o Python 3 para criar um programa Python simples n
 - Aprender a instalar pacotes criando ambientes virtuais Python.
 - Escrever um script Python simples para plotar figuras dentro do VS Code.
 
+**Playlist:** [Programando em Python no VS Code](https://www.wazana.dev/playlist/programando-em-python-no-vs-code).
+
+**Episódio:** [Configurando o VS Code para Python](https://www.wazana.dev/player/configurando-o-vs-code-para-python/programando-em-python-no-vs-code).
+
 ## Introdução
 
 Essas instruções fornecerão uma cópia do projeto para executar em sua máquina para desenvolvimento e teste.
